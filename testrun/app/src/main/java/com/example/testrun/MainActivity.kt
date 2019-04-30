@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        val btnLogIn: Button = findViewById(R.id.login)
+        val btnLogIn: Button = findViewById(R.id.signin)
         btnLogIn.setOnClickListener {
             val intent = Intent(this, recyclewaste::class.java)
             startActivity(intent)
