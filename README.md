@@ -1,1 +1,1 @@
-# ICP_Project2
+# Bottle recycling app built with Android Studio
